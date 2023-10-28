@@ -3,12 +3,13 @@ flask
 flask-cors
 pickleDB
 requests
-requests-cache
 scikit-learn
 treelib
 urllib3
 joblib
-sklearn
+scikit-learn
 pyairtable
 python-dotenv
 requests-futures
+gunicorn
+lxml
