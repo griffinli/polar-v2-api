@@ -1,0 +1,14 @@
+beautifulsoup4
+flask
+flask-cors
+pickleDB
+requests
+requests-cache
+scikit-learn
+treelib
+urllib3
+joblib
+sklearn
+pyairtable
+python-dotenv
+requests-futures
